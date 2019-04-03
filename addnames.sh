@@ -3,7 +3,7 @@ if [ $# = 2 ]
 then
 echo "The no of arguments is correct"
 else
-echo "The no of arguments is incorrect"
+echo "The no of arguments is  not correct"
 fi
 if [ -f $1 ]
 then
