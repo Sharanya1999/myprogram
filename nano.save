@@ -1,0 +1,8 @@
+#!/bin/bash
+sum=0
+i='y'
+echo "Enter the first number"
+read a
+echo "Enter the second number"
+read b
+while( $
